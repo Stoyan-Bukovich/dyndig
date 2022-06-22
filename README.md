@@ -1,5 +1,5 @@
 # dyndig
-Automated way to search for publicly accessable CCTV/DVR/NVR by particular sub domain in all DYNDNS providers.
+Automated way to search for publicly accessible CCTV/DVR/NVR by particular sub domain in all DYNDNS providers.
 
 
 # Usage:
