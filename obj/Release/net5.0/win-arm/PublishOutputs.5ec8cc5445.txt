@@ -1,0 +1,2 @@
+/home/stoyan/Projects/dyndig/bin/Release/net5.0/win-arm/publish/dyndig.pdb
+/home/stoyan/Projects/dyndig/bin/Release/net5.0/win-arm/publish/dyndig.exe

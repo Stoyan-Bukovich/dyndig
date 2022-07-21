@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f3hxUp+FantAeW0f3dkUCKdaFTJmK73fp7dDfbkFlkG3O8lbWmHKaH+ESYFFBNQGLsZBUdpt6asiNpXD/nL01A==",
+  "dgSpecHash": "Ygau968KM19KjsfcDx6wDvseE6bvI2Zni0nYqc0a5cE0NCLmnKeAub5TwaXId54Hsqs4OwpOepJH8yj2x7BH4g==",
   "success": true,
   "projectFilePath": "/home/stoyan/Projects/dyndig/dyndig.csproj",
-  "expectedPackageFiles": [
-    "/home/stoyan/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.17/microsoft.netcore.app.host.linux-x64.5.0.17.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

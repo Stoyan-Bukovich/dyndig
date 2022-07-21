@@ -1,0 +1,16 @@
+/home/stoyan/Projects/dyndig/bin/Release/net5.0/osx-x64/dyndig
+/home/stoyan/Projects/dyndig/bin/Release/net5.0/osx-x64/dyndig.deps.json
+/home/stoyan/Projects/dyndig/bin/Release/net5.0/osx-x64/dyndig.runtimeconfig.json
+/home/stoyan/Projects/dyndig/bin/Release/net5.0/osx-x64/dyndig.runtimeconfig.dev.json
+/home/stoyan/Projects/dyndig/bin/Release/net5.0/osx-x64/dyndig.dll
+/home/stoyan/Projects/dyndig/bin/Release/net5.0/osx-x64/ref/dyndig.dll
+/home/stoyan/Projects/dyndig/bin/Release/net5.0/osx-x64/dyndig.pdb
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/osx-x64/dyndig.csproj.AssemblyReference.cache
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/osx-x64/dyndig.GeneratedMSBuildEditorConfig.editorconfig
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/osx-x64/dyndig.AssemblyInfoInputs.cache
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/osx-x64/dyndig.AssemblyInfo.cs
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/osx-x64/dyndig.csproj.CoreCompileInputs.cache
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/osx-x64/dyndig.dll
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/osx-x64/ref/dyndig.dll
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/osx-x64/dyndig.pdb
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/osx-x64/dyndig.genruntimeconfig.cache

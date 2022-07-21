@@ -1,0 +1,16 @@
+/home/stoyan/Projects/dyndig/bin/Release/net5.0/win-arm/dyndig.exe
+/home/stoyan/Projects/dyndig/bin/Release/net5.0/win-arm/dyndig.deps.json
+/home/stoyan/Projects/dyndig/bin/Release/net5.0/win-arm/dyndig.runtimeconfig.json
+/home/stoyan/Projects/dyndig/bin/Release/net5.0/win-arm/dyndig.runtimeconfig.dev.json
+/home/stoyan/Projects/dyndig/bin/Release/net5.0/win-arm/dyndig.dll
+/home/stoyan/Projects/dyndig/bin/Release/net5.0/win-arm/ref/dyndig.dll
+/home/stoyan/Projects/dyndig/bin/Release/net5.0/win-arm/dyndig.pdb
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/win-arm/dyndig.csproj.AssemblyReference.cache
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/win-arm/dyndig.GeneratedMSBuildEditorConfig.editorconfig
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/win-arm/dyndig.AssemblyInfoInputs.cache
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/win-arm/dyndig.AssemblyInfo.cs
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/win-arm/dyndig.csproj.CoreCompileInputs.cache
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/win-arm/dyndig.dll
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/win-arm/ref/dyndig.dll
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/win-arm/dyndig.pdb
+/home/stoyan/Projects/dyndig/obj/Release/net5.0/win-arm/dyndig.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/stoyan/Projects/dyndig/bin/Debug/net6.0/dyndig
+/home/stoyan/Projects/dyndig/bin/Debug/net6.0/dyndig.deps.json
+/home/stoyan/Projects/dyndig/bin/Debug/net6.0/dyndig.runtimeconfig.json
+/home/stoyan/Projects/dyndig/bin/Debug/net6.0/dyndig.dll
+/home/stoyan/Projects/dyndig/bin/Debug/net6.0/ref/dyndig.dll
+/home/stoyan/Projects/dyndig/bin/Debug/net6.0/dyndig.pdb
+/home/stoyan/Projects/dyndig/obj/Debug/net6.0/dyndig.csproj.AssemblyReference.cache
+/home/stoyan/Projects/dyndig/obj/Debug/net6.0/dyndig.GeneratedMSBuildEditorConfig.editorconfig
+/home/stoyan/Projects/dyndig/obj/Debug/net6.0/dyndig.AssemblyInfoInputs.cache
+/home/stoyan/Projects/dyndig/obj/Debug/net6.0/dyndig.AssemblyInfo.cs
+/home/stoyan/Projects/dyndig/obj/Debug/net6.0/dyndig.csproj.CoreCompileInputs.cache
+/home/stoyan/Projects/dyndig/obj/Debug/net6.0/dyndig.dll
+/home/stoyan/Projects/dyndig/obj/Debug/net6.0/ref/dyndig.dll
+/home/stoyan/Projects/dyndig/obj/Debug/net6.0/dyndig.pdb
+/home/stoyan/Projects/dyndig/obj/Debug/net6.0/dyndig.genruntimeconfig.cache
